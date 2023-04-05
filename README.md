@@ -1,5 +1,5 @@
-# 0xc000007b
+# SOLUCION AL ERROR 0xc000007b
 
 Dll Files
 
-Descomprimir y colocar en su carpeta correspondiente para windows 10 y windows 11
+Descomprimir y colocar en su carpeta correspondiente para Windows 10 y Windows 11
